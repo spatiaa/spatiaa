@@ -26,7 +26,7 @@
 
 ---
 
-## 🌍 What we build
+## What we build
 
 | Area | Description |
 |------|-------------|
@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠 Tech stack
+## Tech stack
 
 **Languages & Frameworks**
 
@@ -65,18 +65,18 @@
 
 ---
 
-## 🚀 Early stage — building in public
+## Early stage — building in public
 
 Spatia is in active development. We're a small, focused team solving hard geospatial problems with modern software practices. Watch this space — open-source tools, demos, and technical write-ups coming soon.
 
 ---
 
-## 📬 Get in touch
+## Get in touch
 
 We're open to collaboration, consulting, and conversations about geospatial tech.
 
-- 🌐 [www.spatiaa.com](https://www.spatiaa.com)
-- 💼 [linkedin.com/company/spatia-tech](https://www.linkedin.com/company/spatia-tech)
+- [www.spatiaa.com](https://www.spatiaa.com)
+- [linkedin.com/company/spatia-tech](https://www.linkedin.com/company/spatia-tech)
 
 <br/>
 
